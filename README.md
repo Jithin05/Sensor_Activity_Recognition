@@ -1,1 +1,1 @@
-# Sensor_Activity_Recognition
+# Sensor Activity Recognition
